@@ -17,13 +17,14 @@ def get_most_active_contributors(owner, repo):
             md_file.write("| User | Contributions |\n")
             md_file.write("| ---- | -------------- |\n")
             for contributor in contributors:
-                md_file.write(f"| {contributor['login']} | {contributor['contributions']} |\n")
+                # Adding hyperlinks to GitHub user handles
+                md_file.write(f"| [{contributor['login']}](https://github.com/{contributor['login']}) | {contributor['contributions']} |\n")
         print(f"Output saved to {owner}_{repo}_contributors.md")
     else:
         print(f"Error fetching contributors for {owner}/{repo}: {contributors.get('message', 'Unknown error')}")
 
-# Example usage for Ethereum Network
-print("Most active contributors for Ethereum Network")
+# Example usage for a Blockchain project
+print("Most active contributors for a Blockchain project:")
 get_most_active_contributors("ethereum", "go-ethereum")
 
 # Example usage for XDC Network
