@@ -14,8 +14,10 @@ def get_most_active_contributors(owner, repo):
         # Saving the output to a Markdown file
         with open(f"{owner}_{repo}_contributors.md", "w") as md_file:
             md_file.write("# Most Active Contributors\n\n")
+            md_file.write("| User | Contributions |\n")
+            md_file.write("| ---- | -------------- |\n")
             for contributor in contributors:
-                md_file.write(f"User: {contributor['login']}, Contributions: {contributor['contributions']}\n")
+                md_file.write(f"| {contributor['login']} | {contributor['contributions']} |\n")
         print(f"Output saved to {owner}_{repo}_contributors.md")
     else:
         print(f"Error fetching contributors for {owner}/{repo}: {contributors.get('message', 'Unknown error')}")
@@ -27,3 +29,4 @@ get_most_active_contributors("ethereum", "go-ethereum")
 # Example usage for an AI project
 print("\nMost active contributors for an AI project:")
 get_most_active_contributors("tensorflow", "tensorflow")
+

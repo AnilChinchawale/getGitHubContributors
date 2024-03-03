@@ -1,102 +1,104 @@
 # Most Active Contributors
 
-User: obscuren, Contributions: 3951
-User: karalabe, Contributions: 2633
-User: fjl, Contributions: 1388
-User: holiman, Contributions: 732
-User: tgerring, Contributions: 569
-User: rjl493456442, Contributions: 394
-User: zelig, Contributions: 377
-User: MariusVanDerWijden, Contributions: 238
-User: CJentzsch, Contributions: 226
-User: debris, Contributions: 212
-User: gballet, Contributions: 188
-User: zsfelfoldi, Contributions: 177
-User: jsvisa, Contributions: 110
-User: s1na, Contributions: 107
-User: ucwong, Contributions: 107
-User: nonsense, Contributions: 95
-User: janos, Contributions: 81
-User: lightclient, Contributions: 70
-User: gluk256, Contributions: 53
-User: acud, Contributions: 53
-User: renaynay, Contributions: 47
-User: gavofyork, Contributions: 44
-User: Arachnid, Contributions: 42
-User: aaronbuchwald, Contributions: 38
-User: vbuterin, Contributions: 34
-User: holisticode, Contributions: 33
-User: s7v7nislands, Contributions: 33
-User: cubedro, Contributions: 32
-User: ligi, Contributions: 31
-User: jwasinger, Contributions: 30
-User: nolash, Contributions: 29
-User: matthalp, Contributions: 29
-User: meowsbits, Contributions: 28
-User: jpeletier, Contributions: 26
-User: sandakersmann, Contributions: 25
-User: frncmx, Contributions: 24
-User: kielbarry, Contributions: 23
-User: dbadoy, Contributions: 23
-User: chfast, Contributions: 21
-User: egonelbre, Contributions: 19
-User: kurkomisi, Contributions: 19
-User: Zachinquarantine, Contributions: 19
-User: darioush, Contributions: 17
-User: lmars, Contributions: 17
-User: ryanschneider, Contributions: 17
-User: zhiqiangxu, Contributions: 16
-User: mrFranklin, Contributions: 15
-User: ethers, Contributions: 14
-User: SamuelMarks, Contributions: 14
-User: winsvega, Contributions: 13
-User: estensen, Contributions: 12
-User: jimenezrick, Contributions: 12
-User: hackmod, Contributions: 12
-User: hadv, Contributions: 11
-User: markya0616, Contributions: 11
-User: eltociear, Contributions: 11
-User: adamschmideg, Contributions: 11
-User: ebuchman, Contributions: 11
-User: danlaine, Contributions: 11
-User: Evolution404, Contributions: 10
-User: CoreyLin, Contributions: 10
-User: mcdee, Contributions: 10
-User: islishude, Contributions: 10
-User: ferhatelmas, Contributions: 10
-User: joohhnnn, Contributions: 10
-User: caktux, Contributions: 9
-User: axic, Contributions: 9
-User: shazow, Contributions: 9
-User: jeremyschlatter, Contributions: 9
-User: robert-zaremba, Contributions: 9
-User: kobigurk, Contributions: 9
-User: stevenroose, Contributions: 8
-User: lmittmann, Contributions: 8
-User: roberto-bayardo, Contributions: 7
-User: baptiste-b-pegasys, Contributions: 7
-User: b00ris, Contributions: 7
-User: rociiu, Contributions: 7
-User: marioevz, Contributions: 7
-User: jtraglia, Contributions: 7
-User: protolambda, Contributions: 7
-User: cdetrio, Contributions: 7
-User: gbalint, Contributions: 7
-User: ajsutton, Contributions: 6
-User: phenix3443, Contributions: 6
-User: hydai, Contributions: 6
-User: cuiweixie, Contributions: 6
-User: SheldonZhong, Contributions: 6
-User: suriyaa, Contributions: 6
-User: mansaj, Contributions: 6
-User: erobit, Contributions: 6
-User: arboreum, Contributions: 6
-User: gumb0, Contributions: 6
-User: bnovil, Contributions: 5
-User: hyunchel, Contributions: 5
-User: hero5512, Contributions: 5
-User: colinlyguo, Contributions: 5
-User: bodhi-crypo, Contributions: 5
-User: wuestholz, Contributions: 5
-User: skylenet, Contributions: 5
-User: VoR0220, Contributions: 5
+| User | Contributions |
+| ---- | -------------- |
+| obscuren | 3951 |
+| karalabe | 2633 |
+| fjl | 1388 |
+| holiman | 732 |
+| tgerring | 569 |
+| rjl493456442 | 394 |
+| zelig | 377 |
+| MariusVanDerWijden | 238 |
+| CJentzsch | 226 |
+| debris | 212 |
+| gballet | 188 |
+| zsfelfoldi | 177 |
+| jsvisa | 110 |
+| s1na | 107 |
+| ucwong | 107 |
+| nonsense | 95 |
+| janos | 81 |
+| lightclient | 70 |
+| gluk256 | 53 |
+| acud | 53 |
+| renaynay | 47 |
+| gavofyork | 44 |
+| Arachnid | 42 |
+| aaronbuchwald | 38 |
+| vbuterin | 34 |
+| holisticode | 33 |
+| s7v7nislands | 33 |
+| cubedro | 32 |
+| ligi | 31 |
+| jwasinger | 30 |
+| nolash | 29 |
+| matthalp | 29 |
+| meowsbits | 28 |
+| jpeletier | 26 |
+| sandakersmann | 25 |
+| frncmx | 24 |
+| kielbarry | 23 |
+| dbadoy | 23 |
+| chfast | 21 |
+| egonelbre | 19 |
+| kurkomisi | 19 |
+| Zachinquarantine | 19 |
+| darioush | 17 |
+| lmars | 17 |
+| ryanschneider | 17 |
+| zhiqiangxu | 16 |
+| mrFranklin | 15 |
+| ethers | 14 |
+| SamuelMarks | 14 |
+| winsvega | 13 |
+| estensen | 12 |
+| jimenezrick | 12 |
+| hackmod | 12 |
+| hadv | 11 |
+| markya0616 | 11 |
+| eltociear | 11 |
+| adamschmideg | 11 |
+| ebuchman | 11 |
+| danlaine | 11 |
+| Evolution404 | 10 |
+| CoreyLin | 10 |
+| mcdee | 10 |
+| islishude | 10 |
+| ferhatelmas | 10 |
+| joohhnnn | 10 |
+| caktux | 9 |
+| axic | 9 |
+| shazow | 9 |
+| jeremyschlatter | 9 |
+| robert-zaremba | 9 |
+| kobigurk | 9 |
+| stevenroose | 8 |
+| lmittmann | 8 |
+| roberto-bayardo | 7 |
+| baptiste-b-pegasys | 7 |
+| b00ris | 7 |
+| rociiu | 7 |
+| marioevz | 7 |
+| jtraglia | 7 |
+| protolambda | 7 |
+| cdetrio | 7 |
+| gbalint | 7 |
+| ajsutton | 6 |
+| phenix3443 | 6 |
+| hydai | 6 |
+| cuiweixie | 6 |
+| SheldonZhong | 6 |
+| suriyaa | 6 |
+| mansaj | 6 |
+| erobit | 6 |
+| arboreum | 6 |
+| gumb0 | 6 |
+| bnovil | 5 |
+| hyunchel | 5 |
+| hero5512 | 5 |
+| colinlyguo | 5 |
+| bodhi-crypo | 5 |
+| wuestholz | 5 |
+| skylenet | 5 |
+| VoR0220 | 5 |

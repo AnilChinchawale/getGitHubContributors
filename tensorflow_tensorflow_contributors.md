@@ -1,102 +1,104 @@
 # Most Active Contributors
 
-User: tensorflower-gardener, Contributions: 46430
-User: mihaimaruseac, Contributions: 1508
-User: ezhulenev, Contributions: 1463
-User: yongtang, Contributions: 1448
-User: gunan, Contributions: 1347
-User: hawkinsp, Contributions: 1307
-User: caisq, Contributions: 1251
-User: akuegel, Contributions: 1239
-User: mrry, Contributions: 1185
-User: roserg, Contributions: 1124
-User: cheshire, Contributions: 1093
-User: benoitsteiner, Contributions: 1046
-User: jpienaar, Contributions: 992
-User: qlzh727, Contributions: 941
-User: River707, Contributions: 887
-User: joker-eph, Contributions: 881
-User: d0k, Contributions: 869
-User: martinwicke, Contributions: 800
-User: yifeif, Contributions: 788
-User: allenlavoie, Contributions: 709
-User: smit-hinsu, Contributions: 699
-User: jsimsa, Contributions: 668
-User: chsigg, Contributions: 652
-User: pifon2a, Contributions: 640
-User: ebrevdo, Contributions: 635
-User: alextp, Contributions: 628
-User: annarev, Contributions: 605
-User: MarkDaoust, Contributions: 592
-User: yangustc07, Contributions: 589
-User: jurahul, Contributions: 535
-User: skye, Contributions: 527
-User: andyly, Contributions: 518
-User: reedwm, Contributions: 509
-User: advaitjain, Contributions: 509
-User: aaudiber, Contributions: 491
-User: karimnosseir, Contributions: 486
-User: aaroey, Contributions: 467
-User: jreiffers, Contributions: 465
-User: jaingaurav, Contributions: 446
-User: rchao, Contributions: 445
-User: fchollet, Contributions: 440
-User: deven-amd, Contributions: 438
-User: nouiz, Contributions: 436
-User: asimshankar, Contributions: 436
-User: jdduke, Contributions: 435
-User: majnemer, Contributions: 417
-User: antiagainst, Contributions: 416
-User: angerson, Contributions: 413
-User: fergushenderson, Contributions: 404
-User: k-w-w, Contributions: 404
-User: abattery, Contributions: 399
-User: rohan100jain, Contributions: 399
-User: terryheo, Contributions: 394
-User: kaixih, Contributions: 394
-User: bhack, Contributions: 392
-User: yunxing, Contributions: 377
-User: feihugis, Contributions: 375
-User: ilblackdragon, Contributions: 374
-User: lrdxgm, Contributions: 374
-User: liufengdb, Contributions: 371
-User: bixia1, Contributions: 368
-User: petewarden, Contributions: 365
-User: jblespiau, Contributions: 362
-User: cky9301, Contributions: 360
-User: edloper, Contributions: 359
-User: trevor-m, Contributions: 357
-User: timshen91, Contributions: 337
-User: faizan-m, Contributions: 335
-User: renjie-liu, Contributions: 330
-User: thaink, Contributions: 325
-User: pavithrasv, Contributions: 324
-User: crccw, Contributions: 324
-User: ukoxyz, Contributions: 322
-User: saxenasaurabh, Contributions: 322
-User: ftynse, Contributions: 319
-User: tpopp, Contributions: 318
-User: kenfranko, Contributions: 312
-User: yuefengz, Contributions: 309
-User: ddunl, Contributions: 308
-User: terrytangyuan, Contributions: 304
-User: yashk2810, Contributions: 302
-User: multiverse-tf, Contributions: 297
-User: tanzhenyu, Contributions: 297
-User: haozha111, Contributions: 295
-User: miaout17, Contributions: 295
-User: dansuh17, Contributions: 293
-User: cantonios, Contributions: 290
-User: frgossen, Contributions: 288
-User: blakehechtman, Contributions: 288
-User: fionalang, Contributions: 286
-User: rjpower, Contributions: 285
-User: kvignesh1420, Contributions: 280
-User: jam14j, Contributions: 272
-User: bmzhao, Contributions: 269
-User: berkinilbeyi, Contributions: 267
-User: jianlijianli, Contributions: 267
-User: facaiy, Contributions: 261
-User: anlunx, Contributions: 259
-User: andrewharp, Contributions: 259
-User: mpcallanan, Contributions: 257
+| User | Contributions |
+| ---- | -------------- |
+| tensorflower-gardener | 46430 |
+| mihaimaruseac | 1508 |
+| ezhulenev | 1463 |
+| yongtang | 1448 |
+| gunan | 1347 |
+| hawkinsp | 1307 |
+| caisq | 1251 |
+| akuegel | 1239 |
+| mrry | 1185 |
+| roserg | 1124 |
+| cheshire | 1093 |
+| benoitsteiner | 1046 |
+| jpienaar | 992 |
+| qlzh727 | 941 |
+| River707 | 887 |
+| joker-eph | 881 |
+| d0k | 869 |
+| martinwicke | 800 |
+| yifeif | 788 |
+| allenlavoie | 709 |
+| smit-hinsu | 699 |
+| jsimsa | 668 |
+| chsigg | 652 |
+| pifon2a | 640 |
+| ebrevdo | 635 |
+| alextp | 628 |
+| annarev | 605 |
+| MarkDaoust | 592 |
+| yangustc07 | 589 |
+| jurahul | 535 |
+| skye | 527 |
+| andyly | 518 |
+| reedwm | 509 |
+| advaitjain | 509 |
+| aaudiber | 491 |
+| karimnosseir | 486 |
+| aaroey | 467 |
+| jreiffers | 465 |
+| jaingaurav | 446 |
+| rchao | 445 |
+| fchollet | 440 |
+| deven-amd | 438 |
+| nouiz | 436 |
+| asimshankar | 436 |
+| jdduke | 435 |
+| majnemer | 417 |
+| antiagainst | 416 |
+| angerson | 413 |
+| fergushenderson | 404 |
+| k-w-w | 404 |
+| abattery | 399 |
+| rohan100jain | 399 |
+| terryheo | 394 |
+| kaixih | 394 |
+| bhack | 392 |
+| yunxing | 377 |
+| feihugis | 375 |
+| ilblackdragon | 374 |
+| lrdxgm | 374 |
+| liufengdb | 371 |
+| bixia1 | 368 |
+| petewarden | 365 |
+| jblespiau | 362 |
+| cky9301 | 360 |
+| edloper | 359 |
+| trevor-m | 357 |
+| timshen91 | 337 |
+| faizan-m | 335 |
+| renjie-liu | 330 |
+| thaink | 325 |
+| pavithrasv | 324 |
+| crccw | 324 |
+| ukoxyz | 322 |
+| saxenasaurabh | 322 |
+| ftynse | 319 |
+| tpopp | 318 |
+| kenfranko | 312 |
+| yuefengz | 309 |
+| ddunl | 308 |
+| terrytangyuan | 304 |
+| yashk2810 | 302 |
+| multiverse-tf | 297 |
+| tanzhenyu | 297 |
+| haozha111 | 295 |
+| miaout17 | 295 |
+| dansuh17 | 293 |
+| cantonios | 290 |
+| frgossen | 288 |
+| blakehechtman | 288 |
+| fionalang | 286 |
+| rjpower | 285 |
+| kvignesh1420 | 280 |
+| jam14j | 272 |
+| bmzhao | 269 |
+| berkinilbeyi | 267 |
+| jianlijianli | 267 |
+| facaiy | 261 |
+| anlunx | 259 |
+| andrewharp | 259 |
+| mpcallanan | 257 |
