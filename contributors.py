@@ -28,7 +28,7 @@ print("Most active contributors for Ethereum Network:")
 get_most_active_contributors("ethereum", "go-ethereum")
 
 # Example usage for XDC Network
-print("\nMost active contributors for XDC Network")
+print("\nMost active contributors for XDC Network:")
 get_most_active_contributors("XinFinOrg", "XDPoSChain")
 
 # Example usage for tensorflow AI
