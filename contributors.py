@@ -22,9 +22,13 @@ def get_most_active_contributors(owner, repo):
     else:
         print(f"Error fetching contributors for {owner}/{repo}: {contributors.get('message', 'Unknown error')}")
 
-# Example usage for a Blockchain project
-print("Most active contributors for a Blockchain project:")
+# Example usage for Ethereum Network
+print("Most active contributors for Ethereum Network")
 get_most_active_contributors("ethereum", "go-ethereum")
+
+# Example usage for XDC Network
+print("\nMost active contributors for XDC Network")
+get_most_active_contributors("XinFinOrg", "XDPoSChain")
 
 # Example usage for an AI project
 print("\nMost active contributors for an AI project:")
