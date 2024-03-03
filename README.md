@@ -35,4 +35,4 @@ Replace `"your_github_token"` with your actual GitHub token in the `get_most_act
 Run the script using the following command:
 
 ```bash
-python contributors_fetcher.py
+python contributors.py
