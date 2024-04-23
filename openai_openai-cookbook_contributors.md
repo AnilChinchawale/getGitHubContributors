@@ -1,104 +1,107 @@
 # Most Active Contributors
 
-| User | Contributions |
-| ---- | -------------- |
-| [ted-at-openai](https://github.com/ted-at-openai) | 222 |
-| [simonpfish](https://github.com/simonpfish) | 77 |
-| [colin-openai](https://github.com/colin-openai) | 56 |
-| [logankilpatrick](https://github.com/logankilpatrick) | 35 |
-| [dependabot[bot]](https://github.com/dependabot[bot]) | 22 |
-| [liuliuOD](https://github.com/liuliuOD) | 21 |
-| [shyamal-anadkat](https://github.com/shyamal-anadkat) | 18 |
-| [isafulf](https://github.com/isafulf) | 14 |
-| [colin-jarvis](https://github.com/colin-jarvis) | 12 |
-| [eltociear](https://github.com/eltociear) | 12 |
-| [jhills20](https://github.com/jhills20) | 12 |
-| [cmurtz-msft](https://github.com/cmurtz-msft) | 11 |
-| [joe-at-openai](https://github.com/joe-at-openai) | 11 |
-| [teomusatoiu](https://github.com/teomusatoiu) | 9 |
-| [kacperlukawski](https://github.com/kacperlukawski) | 9 |
-| [filipeabperes](https://github.com/filipeabperes) | 9 |
-| [jamescalam](https://github.com/jamescalam) | 7 |
-| [ibigio](https://github.com/ibigio) | 7 |
-| [MikeHeaton](https://github.com/MikeHeaton) | 7 |
-| [gaborcselle](https://github.com/gaborcselle) | 6 |
-| [hemidactylus](https://github.com/hemidactylus) | 6 |
-| [katia-openai](https://github.com/katia-openai) | 5 |
-| [cathykc](https://github.com/cathykc) | 4 |
-| [BorisPower](https://github.com/BorisPower) | 4 |
-| [kristapratico](https://github.com/kristapratico) | 4 |
-| [danieltprice](https://github.com/danieltprice) | 3 |
-| [farzad528](https://github.com/farzad528) | 3 |
-| [glecaros](https://github.com/glecaros) | 3 |
-| [joshshep97](https://github.com/joshshep97) | 3 |
-| [0hq](https://github.com/0hq) | 3 |
-| [dylanra-openai](https://github.com/dylanra-openai) | 3 |
-| [prestontuggle](https://github.com/prestontuggle) | 3 |
-| [scottire](https://github.com/scottire) | 3 |
-| [glojain](https://github.com/glojain) | 3 |
-| [ash0ts](https://github.com/ash0ts) | 2 |
-| [sebawita](https://github.com/sebawita) | 2 |
-| [taranjeet](https://github.com/taranjeet) | 2 |
-| [viethoangtranduong](https://github.com/viethoangtranduong) | 2 |
-| [zanieb](https://github.com/zanieb) | 2 |
-| [ethanknights](https://github.com/ethanknights) | 2 |
-| [gusmally](https://github.com/gusmally) | 2 |
-| [pavlovp](https://github.com/pavlovp) | 2 |
-| [wangxuqi](https://github.com/wangxuqi) | 2 |
-| [atroyn](https://github.com/atroyn) | 2 |
-| [athyuttamre](https://github.com/athyuttamre) | 2 |
-| [bricker](https://github.com/bricker) | 2 |
-| [ElmiraGhorbani](https://github.com/ElmiraGhorbani) | 2 |
-| [filip-halt](https://github.com/filip-halt) | 2 |
-| [gregnr](https://github.com/gregnr) | 2 |
-| [jasonbosco](https://github.com/jasonbosco) | 2 |
-| [jbeutler-openai](https://github.com/jbeutler-openai) | 2 |
-| [perborgen](https://github.com/perborgen) | 2 |
-| [Spartee](https://github.com/Spartee) | 2 |
-| [sh1nj1](https://github.com/sh1nj1) | 1 |
-| [sorinsuciu-msft](https://github.com/sorinsuciu-msft) | 1 |
-| [SpringMT](https://github.com/SpringMT) | 1 |
-| [termosa](https://github.com/termosa) | 1 |
-| [anakin87](https://github.com/anakin87) | 1 |
-| [thesteve0](https://github.com/thesteve0) | 1 |
-| [spqw](https://github.com/spqw) | 1 |
-| [hunkim](https://github.com/hunkim) | 1 |
-| [suravshresth](https://github.com/suravshresth) | 1 |
-| [justanotherlad](https://github.com/justanotherlad) | 1 |
-| [wptad](https://github.com/wptad) | 1 |
-| [TirendazAcademy](https://github.com/TirendazAcademy) | 1 |
-| [Tobel158](https://github.com/Tobel158) | 1 |
-| [TDulka](https://github.com/TDulka) | 1 |
-| [zvictor](https://github.com/zvictor) | 1 |
-| [weisisheng](https://github.com/weisisheng) | 1 |
-| [Wang22004K](https://github.com/Wang22004K) | 1 |
-| [wey-gu](https://github.com/wey-gu) | 1 |
-| [johnoct](https://github.com/johnoct) | 1 |
-| [pycui](https://github.com/pycui) | 1 |
-| [pitmonticone](https://github.com/pitmonticone) | 1 |
-| [prakul](https://github.com/prakul) | 1 |
-| [PuneetDhimanShorthillsAI](https://github.com/PuneetDhimanShorthillsAI) | 1 |
-| [ravi03071991](https://github.com/ravi03071991) | 1 |
-| [rbk-ncr](https://github.com/rbk-ncr) | 1 |
-| [Androbin](https://github.com/Androbin) | 1 |
-| [zurawiki](https://github.com/zurawiki) | 1 |
-| [saarikabhasi](https://github.com/saarikabhasi) | 1 |
-| [SaFaUU](https://github.com/SaFaUU) | 1 |
-| [scottleibrand](https://github.com/scottleibrand) | 1 |
-| [MeoMix](https://github.com/MeoMix) | 1 |
-| [SethHWeidman](https://github.com/SethHWeidman) | 1 |
-| [ShantanuNair](https://github.com/ShantanuNair) | 1 |
-| [shauryr](https://github.com/shauryr) | 1 |
-| [tongyx361](https://github.com/tongyx361) | 1 |
-| [shivamsupr](https://github.com/shivamsupr) | 1 |
-| [Disiok](https://github.com/Disiok) | 1 |
-| [SmashedFrenzy16](https://github.com/SmashedFrenzy16) | 1 |
-| [justonf](https://github.com/justonf) | 1 |
-| [kevleininger](https://github.com/kevleininger) | 1 |
-| [khaled-wsa](https://github.com/khaled-wsa) | 1 |
-| [liuchengshan-lcs](https://github.com/liuchengshan-lcs) | 1 |
-| [markbigears](https://github.com/markbigears) | 1 |
-| [melovy](https://github.com/melovy) | 1 |
-| [recordcrash](https://github.com/recordcrash) | 1 |
-| [richzw](https://github.com/richzw) | 1 |
-| [ridrisa](https://github.com/ridrisa) | 1 |
+Total Contributors: 100
+Total Contributions: 712
+
+| User | Contributions | Percentage of Total Contributions |
+| ---- | ------------- | -------------------------------- |
+| [ted-at-openai](https://github.com/ted-at-openai) | 222 | 31.18% |
+| [simonpfish](https://github.com/simonpfish) | 77 | 10.81% |
+| [colin-openai](https://github.com/colin-openai) | 56 | 7.87% |
+| [logankilpatrick](https://github.com/logankilpatrick) | 35 | 4.92% |
+| [dependabot[bot]](https://github.com/dependabot[bot]) | 22 | 3.09% |
+| [liuliuOD](https://github.com/liuliuOD) | 21 | 2.95% |
+| [shyamal-anadkat](https://github.com/shyamal-anadkat) | 18 | 2.53% |
+| [isafulf](https://github.com/isafulf) | 14 | 1.97% |
+| [colin-jarvis](https://github.com/colin-jarvis) | 12 | 1.69% |
+| [eltociear](https://github.com/eltociear) | 12 | 1.69% |
+| [jhills20](https://github.com/jhills20) | 12 | 1.69% |
+| [cmurtz-msft](https://github.com/cmurtz-msft) | 11 | 1.54% |
+| [joe-at-openai](https://github.com/joe-at-openai) | 11 | 1.54% |
+| [teomusatoiu](https://github.com/teomusatoiu) | 9 | 1.26% |
+| [kacperlukawski](https://github.com/kacperlukawski) | 9 | 1.26% |
+| [filipeabperes](https://github.com/filipeabperes) | 9 | 1.26% |
+| [jamescalam](https://github.com/jamescalam) | 7 | 0.98% |
+| [ibigio](https://github.com/ibigio) | 7 | 0.98% |
+| [MikeHeaton](https://github.com/MikeHeaton) | 7 | 0.98% |
+| [gaborcselle](https://github.com/gaborcselle) | 6 | 0.84% |
+| [hemidactylus](https://github.com/hemidactylus) | 6 | 0.84% |
+| [katia-openai](https://github.com/katia-openai) | 5 | 0.70% |
+| [cathykc](https://github.com/cathykc) | 4 | 0.56% |
+| [BorisPower](https://github.com/BorisPower) | 4 | 0.56% |
+| [kristapratico](https://github.com/kristapratico) | 4 | 0.56% |
+| [danieltprice](https://github.com/danieltprice) | 3 | 0.42% |
+| [farzad528](https://github.com/farzad528) | 3 | 0.42% |
+| [glecaros](https://github.com/glecaros) | 3 | 0.42% |
+| [joshshep97](https://github.com/joshshep97) | 3 | 0.42% |
+| [0hq](https://github.com/0hq) | 3 | 0.42% |
+| [dylanra-openai](https://github.com/dylanra-openai) | 3 | 0.42% |
+| [prestontuggle](https://github.com/prestontuggle) | 3 | 0.42% |
+| [scottire](https://github.com/scottire) | 3 | 0.42% |
+| [glojain](https://github.com/glojain) | 3 | 0.42% |
+| [ash0ts](https://github.com/ash0ts) | 2 | 0.28% |
+| [sebawita](https://github.com/sebawita) | 2 | 0.28% |
+| [taranjeet](https://github.com/taranjeet) | 2 | 0.28% |
+| [viethoangtranduong](https://github.com/viethoangtranduong) | 2 | 0.28% |
+| [zanieb](https://github.com/zanieb) | 2 | 0.28% |
+| [ethanknights](https://github.com/ethanknights) | 2 | 0.28% |
+| [gusmally](https://github.com/gusmally) | 2 | 0.28% |
+| [pavlovp](https://github.com/pavlovp) | 2 | 0.28% |
+| [wangxuqi](https://github.com/wangxuqi) | 2 | 0.28% |
+| [atroyn](https://github.com/atroyn) | 2 | 0.28% |
+| [athyuttamre](https://github.com/athyuttamre) | 2 | 0.28% |
+| [bricker](https://github.com/bricker) | 2 | 0.28% |
+| [ElmiraGhorbani](https://github.com/ElmiraGhorbani) | 2 | 0.28% |
+| [filip-halt](https://github.com/filip-halt) | 2 | 0.28% |
+| [gregnr](https://github.com/gregnr) | 2 | 0.28% |
+| [jasonbosco](https://github.com/jasonbosco) | 2 | 0.28% |
+| [jbeutler-openai](https://github.com/jbeutler-openai) | 2 | 0.28% |
+| [perborgen](https://github.com/perborgen) | 2 | 0.28% |
+| [Spartee](https://github.com/Spartee) | 2 | 0.28% |
+| [sh1nj1](https://github.com/sh1nj1) | 1 | 0.14% |
+| [sorinsuciu-msft](https://github.com/sorinsuciu-msft) | 1 | 0.14% |
+| [SpringMT](https://github.com/SpringMT) | 1 | 0.14% |
+| [termosa](https://github.com/termosa) | 1 | 0.14% |
+| [anakin87](https://github.com/anakin87) | 1 | 0.14% |
+| [thesteve0](https://github.com/thesteve0) | 1 | 0.14% |
+| [spqw](https://github.com/spqw) | 1 | 0.14% |
+| [hunkim](https://github.com/hunkim) | 1 | 0.14% |
+| [suravshresth](https://github.com/suravshresth) | 1 | 0.14% |
+| [justanotherlad](https://github.com/justanotherlad) | 1 | 0.14% |
+| [wptad](https://github.com/wptad) | 1 | 0.14% |
+| [TirendazAcademy](https://github.com/TirendazAcademy) | 1 | 0.14% |
+| [Tobel158](https://github.com/Tobel158) | 1 | 0.14% |
+| [TDulka](https://github.com/TDulka) | 1 | 0.14% |
+| [zvictor](https://github.com/zvictor) | 1 | 0.14% |
+| [weisisheng](https://github.com/weisisheng) | 1 | 0.14% |
+| [Wang22004K](https://github.com/Wang22004K) | 1 | 0.14% |
+| [wey-gu](https://github.com/wey-gu) | 1 | 0.14% |
+| [johnoct](https://github.com/johnoct) | 1 | 0.14% |
+| [pycui](https://github.com/pycui) | 1 | 0.14% |
+| [pitmonticone](https://github.com/pitmonticone) | 1 | 0.14% |
+| [prakul](https://github.com/prakul) | 1 | 0.14% |
+| [PuneetDhimanShorthillsAI](https://github.com/PuneetDhimanShorthillsAI) | 1 | 0.14% |
+| [ravi03071991](https://github.com/ravi03071991) | 1 | 0.14% |
+| [rbk-ncr](https://github.com/rbk-ncr) | 1 | 0.14% |
+| [Androbin](https://github.com/Androbin) | 1 | 0.14% |
+| [zurawiki](https://github.com/zurawiki) | 1 | 0.14% |
+| [saarikabhasi](https://github.com/saarikabhasi) | 1 | 0.14% |
+| [SaFaUU](https://github.com/SaFaUU) | 1 | 0.14% |
+| [scottleibrand](https://github.com/scottleibrand) | 1 | 0.14% |
+| [MeoMix](https://github.com/MeoMix) | 1 | 0.14% |
+| [SethHWeidman](https://github.com/SethHWeidman) | 1 | 0.14% |
+| [ShantanuNair](https://github.com/ShantanuNair) | 1 | 0.14% |
+| [shauryr](https://github.com/shauryr) | 1 | 0.14% |
+| [tongyx361](https://github.com/tongyx361) | 1 | 0.14% |
+| [shivamsupr](https://github.com/shivamsupr) | 1 | 0.14% |
+| [Disiok](https://github.com/Disiok) | 1 | 0.14% |
+| [SmashedFrenzy16](https://github.com/SmashedFrenzy16) | 1 | 0.14% |
+| [justonf](https://github.com/justonf) | 1 | 0.14% |
+| [kevleininger](https://github.com/kevleininger) | 1 | 0.14% |
+| [khaled-wsa](https://github.com/khaled-wsa) | 1 | 0.14% |
+| [liuchengshan-lcs](https://github.com/liuchengshan-lcs) | 1 | 0.14% |
+| [markbigears](https://github.com/markbigears) | 1 | 0.14% |
+| [melovy](https://github.com/melovy) | 1 | 0.14% |
+| [recordcrash](https://github.com/recordcrash) | 1 | 0.14% |
+| [richzw](https://github.com/richzw) | 1 | 0.14% |
+| [ridrisa](https://github.com/ridrisa) | 1 | 0.14% |

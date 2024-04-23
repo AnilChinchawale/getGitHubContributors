@@ -1,104 +1,107 @@
 # Most Active Contributors
 
-| User | Contributions |
-| ---- | -------------- |
-| [tensorflower-gardener](https://github.com/tensorflower-gardener) | 47229 |
-| [ezhulenev](https://github.com/ezhulenev) | 1529 |
-| [mihaimaruseac](https://github.com/mihaimaruseac) | 1509 |
-| [yongtang](https://github.com/yongtang) | 1448 |
-| [hawkinsp](https://github.com/hawkinsp) | 1351 |
-| [gunan](https://github.com/gunan) | 1347 |
-| [akuegel](https://github.com/akuegel) | 1263 |
-| [caisq](https://github.com/caisq) | 1251 |
-| [mrry](https://github.com/mrry) | 1199 |
-| [roserg](https://github.com/roserg) | 1127 |
-| [cheshire](https://github.com/cheshire) | 1099 |
-| [benoitsteiner](https://github.com/benoitsteiner) | 1046 |
-| [jpienaar](https://github.com/jpienaar) | 993 |
-| [qlzh727](https://github.com/qlzh727) | 941 |
-| [River707](https://github.com/River707) | 887 |
-| [d0k](https://github.com/d0k) | 881 |
-| [joker-eph](https://github.com/joker-eph) | 881 |
-| [martinwicke](https://github.com/martinwicke) | 801 |
-| [yifeif](https://github.com/yifeif) | 788 |
-| [allenlavoie](https://github.com/allenlavoie) | 709 |
-| [smit-hinsu](https://github.com/smit-hinsu) | 699 |
-| [jsimsa](https://github.com/jsimsa) | 668 |
-| [pifon2a](https://github.com/pifon2a) | 661 |
-| [chsigg](https://github.com/chsigg) | 659 |
-| [ebrevdo](https://github.com/ebrevdo) | 635 |
-| [yangustc07](https://github.com/yangustc07) | 632 |
-| [alextp](https://github.com/alextp) | 628 |
-| [annarev](https://github.com/annarev) | 605 |
-| [MarkDaoust](https://github.com/MarkDaoust) | 593 |
-| [jurahul](https://github.com/jurahul) | 536 |
-| [skye](https://github.com/skye) | 530 |
-| [reedwm](https://github.com/reedwm) | 518 |
-| [andyly](https://github.com/andyly) | 518 |
-| [advaitjain](https://github.com/advaitjain) | 509 |
-| [jreiffers](https://github.com/jreiffers) | 495 |
-| [aaudiber](https://github.com/aaudiber) | 492 |
-| [karimnosseir](https://github.com/karimnosseir) | 486 |
-| [aaroey](https://github.com/aaroey) | 467 |
-| [jaingaurav](https://github.com/jaingaurav) | 446 |
-| [rchao](https://github.com/rchao) | 445 |
-| [fchollet](https://github.com/fchollet) | 440 |
-| [deven-amd](https://github.com/deven-amd) | 438 |
-| [nouiz](https://github.com/nouiz) | 436 |
-| [asimshankar](https://github.com/asimshankar) | 436 |
-| [jdduke](https://github.com/jdduke) | 435 |
-| [majnemer](https://github.com/majnemer) | 425 |
-| [antiagainst](https://github.com/antiagainst) | 416 |
-| [fergushenderson](https://github.com/fergushenderson) | 414 |
-| [angerson](https://github.com/angerson) | 413 |
-| [k-w-w](https://github.com/k-w-w) | 404 |
-| [rohan100jain](https://github.com/rohan100jain) | 399 |
-| [abattery](https://github.com/abattery) | 399 |
-| [kaixih](https://github.com/kaixih) | 395 |
-| [terryheo](https://github.com/terryheo) | 394 |
-| [bhack](https://github.com/bhack) | 392 |
-| [bixia1](https://github.com/bixia1) | 389 |
-| [yunxing](https://github.com/yunxing) | 377 |
-| [feihugis](https://github.com/feihugis) | 375 |
-| [lrdxgm](https://github.com/lrdxgm) | 374 |
-| [ilblackdragon](https://github.com/ilblackdragon) | 374 |
-| [liufengdb](https://github.com/liufengdb) | 371 |
-| [cky9301](https://github.com/cky9301) | 369 |
-| [petewarden](https://github.com/petewarden) | 365 |
-| [jblespiau](https://github.com/jblespiau) | 362 |
-| [edloper](https://github.com/edloper) | 359 |
-| [trevor-m](https://github.com/trevor-m) | 359 |
-| [ddunl](https://github.com/ddunl) | 340 |
-| [thaink](https://github.com/thaink) | 338 |
-| [timshen91](https://github.com/timshen91) | 337 |
-| [faizan-m](https://github.com/faizan-m) | 335 |
-| [dansuh17](https://github.com/dansuh17) | 334 |
-| [renjie-liu](https://github.com/renjie-liu) | 330 |
-| [crccw](https://github.com/crccw) | 324 |
-| [pavithrasv](https://github.com/pavithrasv) | 324 |
-| [ukoxyz](https://github.com/ukoxyz) | 322 |
-| [saxenasaurabh](https://github.com/saxenasaurabh) | 322 |
-| [ftynse](https://github.com/ftynse) | 319 |
-| [tpopp](https://github.com/tpopp) | 318 |
-| [kenfranko](https://github.com/kenfranko) | 312 |
-| [yashk2810](https://github.com/yashk2810) | 310 |
-| [terrytangyuan](https://github.com/terrytangyuan) | 304 |
-| [multiverse-tf](https://github.com/multiverse-tf) | 297 |
-| [haozha111](https://github.com/haozha111) | 297 |
-| [tanzhenyu](https://github.com/tanzhenyu) | 297 |
-| [miaout17](https://github.com/miaout17) | 295 |
-| [cantonios](https://github.com/cantonios) | 292 |
-| [blakehechtman](https://github.com/blakehechtman) | 291 |
-| [frgossen](https://github.com/frgossen) | 289 |
-| [fionalang](https://github.com/fionalang) | 286 |
-| [rjpower](https://github.com/rjpower) | 285 |
-| [kvignesh1420](https://github.com/kvignesh1420) | 280 |
-| [jam14j](https://github.com/jam14j) | 272 |
-| [anlunx](https://github.com/anlunx) | 271 |
-| [bmzhao](https://github.com/bmzhao) | 269 |
-| [berkinilbeyi](https://github.com/berkinilbeyi) | 267 |
-| [jianlijianli](https://github.com/jianlijianli) | 267 |
-| [facaiy](https://github.com/facaiy) | 261 |
-| [mpcallanan](https://github.com/mpcallanan) | 260 |
-| [andrewharp](https://github.com/andrewharp) | 259 |
-| [olegshyshkov](https://github.com/olegshyshkov) | 258 |
+Total Contributors: 100
+Total Contributions: 99973
+
+| User | Contributions | Percentage of Total Contributions |
+| ---- | ------------- | -------------------------------- |
+| [tensorflower-gardener](https://github.com/tensorflower-gardener) | 47229 | 47.24% |
+| [ezhulenev](https://github.com/ezhulenev) | 1529 | 1.53% |
+| [mihaimaruseac](https://github.com/mihaimaruseac) | 1509 | 1.51% |
+| [yongtang](https://github.com/yongtang) | 1448 | 1.45% |
+| [hawkinsp](https://github.com/hawkinsp) | 1351 | 1.35% |
+| [gunan](https://github.com/gunan) | 1347 | 1.35% |
+| [akuegel](https://github.com/akuegel) | 1263 | 1.26% |
+| [caisq](https://github.com/caisq) | 1251 | 1.25% |
+| [mrry](https://github.com/mrry) | 1199 | 1.20% |
+| [roserg](https://github.com/roserg) | 1127 | 1.13% |
+| [cheshire](https://github.com/cheshire) | 1099 | 1.10% |
+| [benoitsteiner](https://github.com/benoitsteiner) | 1046 | 1.05% |
+| [jpienaar](https://github.com/jpienaar) | 993 | 0.99% |
+| [qlzh727](https://github.com/qlzh727) | 941 | 0.94% |
+| [River707](https://github.com/River707) | 887 | 0.89% |
+| [d0k](https://github.com/d0k) | 881 | 0.88% |
+| [joker-eph](https://github.com/joker-eph) | 881 | 0.88% |
+| [martinwicke](https://github.com/martinwicke) | 801 | 0.80% |
+| [yifeif](https://github.com/yifeif) | 788 | 0.79% |
+| [allenlavoie](https://github.com/allenlavoie) | 709 | 0.71% |
+| [smit-hinsu](https://github.com/smit-hinsu) | 699 | 0.70% |
+| [jsimsa](https://github.com/jsimsa) | 668 | 0.67% |
+| [pifon2a](https://github.com/pifon2a) | 661 | 0.66% |
+| [chsigg](https://github.com/chsigg) | 659 | 0.66% |
+| [ebrevdo](https://github.com/ebrevdo) | 635 | 0.64% |
+| [yangustc07](https://github.com/yangustc07) | 632 | 0.63% |
+| [alextp](https://github.com/alextp) | 628 | 0.63% |
+| [annarev](https://github.com/annarev) | 605 | 0.61% |
+| [MarkDaoust](https://github.com/MarkDaoust) | 593 | 0.59% |
+| [jurahul](https://github.com/jurahul) | 536 | 0.54% |
+| [skye](https://github.com/skye) | 530 | 0.53% |
+| [reedwm](https://github.com/reedwm) | 518 | 0.52% |
+| [andyly](https://github.com/andyly) | 518 | 0.52% |
+| [advaitjain](https://github.com/advaitjain) | 509 | 0.51% |
+| [jreiffers](https://github.com/jreiffers) | 495 | 0.50% |
+| [aaudiber](https://github.com/aaudiber) | 492 | 0.49% |
+| [karimnosseir](https://github.com/karimnosseir) | 486 | 0.49% |
+| [aaroey](https://github.com/aaroey) | 467 | 0.47% |
+| [jaingaurav](https://github.com/jaingaurav) | 446 | 0.45% |
+| [rchao](https://github.com/rchao) | 445 | 0.45% |
+| [fchollet](https://github.com/fchollet) | 440 | 0.44% |
+| [deven-amd](https://github.com/deven-amd) | 438 | 0.44% |
+| [nouiz](https://github.com/nouiz) | 436 | 0.44% |
+| [asimshankar](https://github.com/asimshankar) | 436 | 0.44% |
+| [jdduke](https://github.com/jdduke) | 435 | 0.44% |
+| [majnemer](https://github.com/majnemer) | 425 | 0.43% |
+| [antiagainst](https://github.com/antiagainst) | 416 | 0.42% |
+| [fergushenderson](https://github.com/fergushenderson) | 414 | 0.41% |
+| [angerson](https://github.com/angerson) | 413 | 0.41% |
+| [k-w-w](https://github.com/k-w-w) | 404 | 0.40% |
+| [rohan100jain](https://github.com/rohan100jain) | 399 | 0.40% |
+| [abattery](https://github.com/abattery) | 399 | 0.40% |
+| [kaixih](https://github.com/kaixih) | 395 | 0.40% |
+| [terryheo](https://github.com/terryheo) | 394 | 0.39% |
+| [bhack](https://github.com/bhack) | 392 | 0.39% |
+| [bixia1](https://github.com/bixia1) | 389 | 0.39% |
+| [yunxing](https://github.com/yunxing) | 377 | 0.38% |
+| [feihugis](https://github.com/feihugis) | 375 | 0.38% |
+| [lrdxgm](https://github.com/lrdxgm) | 374 | 0.37% |
+| [ilblackdragon](https://github.com/ilblackdragon) | 374 | 0.37% |
+| [liufengdb](https://github.com/liufengdb) | 371 | 0.37% |
+| [cky9301](https://github.com/cky9301) | 369 | 0.37% |
+| [petewarden](https://github.com/petewarden) | 365 | 0.37% |
+| [jblespiau](https://github.com/jblespiau) | 362 | 0.36% |
+| [edloper](https://github.com/edloper) | 359 | 0.36% |
+| [trevor-m](https://github.com/trevor-m) | 359 | 0.36% |
+| [ddunl](https://github.com/ddunl) | 340 | 0.34% |
+| [thaink](https://github.com/thaink) | 338 | 0.34% |
+| [timshen91](https://github.com/timshen91) | 337 | 0.34% |
+| [faizan-m](https://github.com/faizan-m) | 335 | 0.34% |
+| [dansuh17](https://github.com/dansuh17) | 334 | 0.33% |
+| [renjie-liu](https://github.com/renjie-liu) | 330 | 0.33% |
+| [crccw](https://github.com/crccw) | 324 | 0.32% |
+| [pavithrasv](https://github.com/pavithrasv) | 324 | 0.32% |
+| [ukoxyz](https://github.com/ukoxyz) | 322 | 0.32% |
+| [saxenasaurabh](https://github.com/saxenasaurabh) | 322 | 0.32% |
+| [ftynse](https://github.com/ftynse) | 319 | 0.32% |
+| [tpopp](https://github.com/tpopp) | 318 | 0.32% |
+| [kenfranko](https://github.com/kenfranko) | 312 | 0.31% |
+| [yashk2810](https://github.com/yashk2810) | 310 | 0.31% |
+| [terrytangyuan](https://github.com/terrytangyuan) | 304 | 0.30% |
+| [multiverse-tf](https://github.com/multiverse-tf) | 297 | 0.30% |
+| [haozha111](https://github.com/haozha111) | 297 | 0.30% |
+| [tanzhenyu](https://github.com/tanzhenyu) | 297 | 0.30% |
+| [miaout17](https://github.com/miaout17) | 295 | 0.30% |
+| [cantonios](https://github.com/cantonios) | 292 | 0.29% |
+| [blakehechtman](https://github.com/blakehechtman) | 291 | 0.29% |
+| [frgossen](https://github.com/frgossen) | 289 | 0.29% |
+| [fionalang](https://github.com/fionalang) | 286 | 0.29% |
+| [rjpower](https://github.com/rjpower) | 285 | 0.29% |
+| [kvignesh1420](https://github.com/kvignesh1420) | 280 | 0.28% |
+| [jam14j](https://github.com/jam14j) | 272 | 0.27% |
+| [anlunx](https://github.com/anlunx) | 271 | 0.27% |
+| [bmzhao](https://github.com/bmzhao) | 269 | 0.27% |
+| [berkinilbeyi](https://github.com/berkinilbeyi) | 267 | 0.27% |
+| [jianlijianli](https://github.com/jianlijianli) | 267 | 0.27% |
+| [facaiy](https://github.com/facaiy) | 261 | 0.26% |
+| [mpcallanan](https://github.com/mpcallanan) | 260 | 0.26% |
+| [andrewharp](https://github.com/andrewharp) | 259 | 0.26% |
+| [olegshyshkov](https://github.com/olegshyshkov) | 258 | 0.26% |

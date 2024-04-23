@@ -19,12 +19,21 @@ async function getMostActiveContributors(owner, repo) {
 
     // Check if the response is an array
     if (Array.isArray(contributors)) {
+      // Calculate total contributions
+      const totalContributions = contributors.reduce((sum, contributor) => sum + contributor.contributions, 0);
+
+      // Sorting contributors by contributions
+      contributors.sort((a, b) => b.contributions - a.contributions);
+
       // Writing output to a Markdown file
       let data = "# Most Active Contributors\n\n";
-      data += "| User | Contributions |\n";
-      data += "| ---- | -------------- |\n";
+      data += `Total Contributors: ${contributors.length}\n`;
+      data += `Total Contributions: ${totalContributions}\n\n`;
+      data += "| User | Contributions | Percentage of Total Contributions |\n";
+      data += "| ---- | ------------- | -------------------------------- |\n";
       contributors.forEach(contributor => {
-        data += `| [${contributor.login}](https://github.com/${contributor.login}) | ${contributor.contributions} |\n`;
+        const percentage = ((contributor.contributions / totalContributions) * 100).toFixed(2);
+        data += `| [${contributor.login}](https://github.com/${contributor.login}) | ${contributor.contributions} | ${percentage}% |\n`;
       });
       fs.writeFileSync(`${owner}_${repo}_contributors.md`, data);
       console.log(`Output saved to ${owner}_${repo}_contributors.md`);

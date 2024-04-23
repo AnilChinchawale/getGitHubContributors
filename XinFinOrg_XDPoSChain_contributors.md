@@ -1,104 +1,107 @@
 # Most Active Contributors
 
-| User | Contributions |
-| ---- | -------------- |
-| [obscuren](https://github.com/obscuren) | 3893 |
-| [karalabe](https://github.com/karalabe) | 1739 |
-| [fjl](https://github.com/fjl) | 1032 |
-| [tgerring](https://github.com/tgerring) | 569 |
-| [zelig](https://github.com/zelig) | 375 |
-| [AnilChinchawale](https://github.com/AnilChinchawale) | 290 |
-| [CJentzsch](https://github.com/CJentzsch) | 226 |
-| [debris](https://github.com/debris) | 212 |
-| [wjrjerome](https://github.com/wjrjerome) | 185 |
-| [liam-lai](https://github.com/liam-lai) | 145 |
-| [holiman](https://github.com/holiman) | 145 |
-| [RushabhParmar12](https://github.com/RushabhParmar12) | 144 |
-| [zsfelfoldi](https://github.com/zsfelfoldi) | 124 |
-| [MestryOmkar](https://github.com/MestryOmkar) | 83 |
-| [gzliudan](https://github.com/gzliudan) | 83 |
-| [bas-vk](https://github.com/bas-vk) | 75 |
-| [nonsense](https://github.com/nonsense) | 72 |
-| [rjl493456442](https://github.com/rjl493456442) | 60 |
-| [janos](https://github.com/janos) | 57 |
-| [gluk256](https://github.com/gluk256) | 49 |
-| [gavofyork](https://github.com/gavofyork) | 44 |
-| [gballet](https://github.com/gballet) | 40 |
-| [acud](https://github.com/acud) | 40 |
-| [Arachnid](https://github.com/Arachnid) | 39 |
-| [vbuterin](https://github.com/vbuterin) | 34 |
-| [cubedro](https://github.com/cubedro) | 32 |
-| [wgr523](https://github.com/wgr523) | 32 |
-| [olumuyiwadad](https://github.com/olumuyiwadad) | 31 |
-| [jsvisa](https://github.com/jsvisa) | 30 |
-| [holisticode](https://github.com/holisticode) | 28 |
-| [jpeletier](https://github.com/jpeletier) | 24 |
-| [kielbarry](https://github.com/kielbarry) | 23 |
-| [nolash](https://github.com/nolash) | 21 |
-| [egonelbre](https://github.com/egonelbre) | 19 |
-| [lmars](https://github.com/lmars) | 17 |
-| [wanderer](https://github.com/wanderer) | 17 |
-| [frncmx](https://github.com/frncmx) | 13 |
-| [wanwiset25](https://github.com/wanwiset25) | 13 |
-| [ligi](https://github.com/ligi) | 12 |
-| [jimenezrick](https://github.com/jimenezrick) | 12 |
-| [chfast](https://github.com/chfast) | 12 |
-| [kurkomisi](https://github.com/kurkomisi) | 12 |
-| [ebuchman](https://github.com/ebuchman) | 11 |
-| [ethers](https://github.com/ethers) | 11 |
-| [ryanschneider](https://github.com/ryanschneider) | 10 |
-| [ferhatelmas](https://github.com/ferhatelmas) | 10 |
-| [winsvega](https://github.com/winsvega) | 10 |
-| [markya0616](https://github.com/markya0616) | 10 |
-| [mcdee](https://github.com/mcdee) | 9 |
-| [kobigurk](https://github.com/kobigurk) | 9 |
-| [caktux](https://github.com/caktux) | 9 |
-| [ronakgothi](https://github.com/ronakgothi) | 9 |
-| [mrFranklin](https://github.com/mrFranklin) | 8 |
-| [shazow](https://github.com/shazow) | 8 |
-| [stevenroose](https://github.com/stevenroose) | 8 |
-| [CoreyLin](https://github.com/CoreyLin) | 7 |
-| [robert-zaremba](https://github.com/robert-zaremba) | 7 |
-| [gbalint](https://github.com/gbalint) | 7 |
-| [hackmod](https://github.com/hackmod) | 7 |
-| [hadv](https://github.com/hadv) | 7 |
-| [cdetrio](https://github.com/cdetrio) | 6 |
-| [b00ris](https://github.com/b00ris) | 6 |
-| [mansaj](https://github.com/mansaj) | 6 |
-| [jeremyschlatter](https://github.com/jeremyschlatter) | 6 |
-| [erobit](https://github.com/erobit) | 6 |
-| [arboreum](https://github.com/arboreum) | 6 |
-| [axic](https://github.com/axic) | 6 |
-| [span14](https://github.com/span14) | 5 |
-| [wuestholz](https://github.com/wuestholz) | 5 |
-| [hydai](https://github.com/hydai) | 5 |
-| [SamuelMarks](https://github.com/SamuelMarks) | 5 |
-| [rociiu](https://github.com/rociiu) | 5 |
-| [Rahulraj04](https://github.com/Rahulraj04) | 5 |
-| [GagziW](https://github.com/GagziW) | 5 |
-| [Dexaran](https://github.com/Dexaran) | 5 |
-| [frewsxcv](https://github.com/frewsxcv) | 5 |
-| [heikoheiko](https://github.com/heikoheiko) | 5 |
-| [0xc1c4da](https://github.com/0xc1c4da) | 5 |
-| [carver](https://github.com/carver) | 5 |
-| [LefterisJP](https://github.com/LefterisJP) | 5 |
-| [xcthulhu](https://github.com/xcthulhu) | 5 |
-| [tbocek](https://github.com/tbocek) | 4 |
-| [sorin](https://github.com/sorin) | 4 |
-| [niuzhenguo](https://github.com/niuzhenguo) | 4 |
-| [jmozah](https://github.com/jmozah) | 4 |
-| [yondonfu](https://github.com/yondonfu) | 4 |
-| [wuxiangzhou2010](https://github.com/wuxiangzhou2010) | 4 |
-| [sdboyer](https://github.com/sdboyer) | 4 |
-| [hiddentao](https://github.com/hiddentao) | 4 |
-| [fishermanymc](https://github.com/fishermanymc) | 4 |
-| [caesarchad](https://github.com/caesarchad) | 4 |
-| [gumb0](https://github.com/gumb0) | 4 |
-| [reductionista](https://github.com/reductionista) | 4 |
-| [roveneliah](https://github.com/roveneliah) | 4 |
-| [evgen-povt](https://github.com/evgen-povt) | 4 |
-| [HusamElbashir](https://github.com/HusamElbashir) | 4 |
-| [divan](https://github.com/divan) | 4 |
-| [LLLeon](https://github.com/LLLeon) | 4 |
-| [wraith7](https://github.com/wraith7) | 4 |
-| [leijurv](https://github.com/leijurv) | 4 |
+Total Contributors: 100
+Total Contributions: 10448
+
+| User | Contributions | Percentage of Total Contributions |
+| ---- | ------------- | -------------------------------- |
+| [obscuren](https://github.com/obscuren) | 3893 | 37.26% |
+| [karalabe](https://github.com/karalabe) | 1739 | 16.64% |
+| [fjl](https://github.com/fjl) | 1032 | 9.88% |
+| [tgerring](https://github.com/tgerring) | 569 | 5.45% |
+| [zelig](https://github.com/zelig) | 375 | 3.59% |
+| [AnilChinchawale](https://github.com/AnilChinchawale) | 290 | 2.78% |
+| [CJentzsch](https://github.com/CJentzsch) | 226 | 2.16% |
+| [debris](https://github.com/debris) | 212 | 2.03% |
+| [wjrjerome](https://github.com/wjrjerome) | 185 | 1.77% |
+| [liam-lai](https://github.com/liam-lai) | 145 | 1.39% |
+| [holiman](https://github.com/holiman) | 145 | 1.39% |
+| [RushabhParmar12](https://github.com/RushabhParmar12) | 144 | 1.38% |
+| [zsfelfoldi](https://github.com/zsfelfoldi) | 124 | 1.19% |
+| [MestryOmkar](https://github.com/MestryOmkar) | 83 | 0.79% |
+| [gzliudan](https://github.com/gzliudan) | 83 | 0.79% |
+| [bas-vk](https://github.com/bas-vk) | 75 | 0.72% |
+| [nonsense](https://github.com/nonsense) | 72 | 0.69% |
+| [rjl493456442](https://github.com/rjl493456442) | 60 | 0.57% |
+| [janos](https://github.com/janos) | 57 | 0.55% |
+| [gluk256](https://github.com/gluk256) | 49 | 0.47% |
+| [gavofyork](https://github.com/gavofyork) | 44 | 0.42% |
+| [gballet](https://github.com/gballet) | 40 | 0.38% |
+| [acud](https://github.com/acud) | 40 | 0.38% |
+| [Arachnid](https://github.com/Arachnid) | 39 | 0.37% |
+| [vbuterin](https://github.com/vbuterin) | 34 | 0.33% |
+| [cubedro](https://github.com/cubedro) | 32 | 0.31% |
+| [wgr523](https://github.com/wgr523) | 32 | 0.31% |
+| [olumuyiwadad](https://github.com/olumuyiwadad) | 31 | 0.30% |
+| [jsvisa](https://github.com/jsvisa) | 30 | 0.29% |
+| [holisticode](https://github.com/holisticode) | 28 | 0.27% |
+| [jpeletier](https://github.com/jpeletier) | 24 | 0.23% |
+| [kielbarry](https://github.com/kielbarry) | 23 | 0.22% |
+| [nolash](https://github.com/nolash) | 21 | 0.20% |
+| [egonelbre](https://github.com/egonelbre) | 19 | 0.18% |
+| [lmars](https://github.com/lmars) | 17 | 0.16% |
+| [wanderer](https://github.com/wanderer) | 17 | 0.16% |
+| [frncmx](https://github.com/frncmx) | 13 | 0.12% |
+| [wanwiset25](https://github.com/wanwiset25) | 13 | 0.12% |
+| [ligi](https://github.com/ligi) | 12 | 0.11% |
+| [jimenezrick](https://github.com/jimenezrick) | 12 | 0.11% |
+| [chfast](https://github.com/chfast) | 12 | 0.11% |
+| [kurkomisi](https://github.com/kurkomisi) | 12 | 0.11% |
+| [ebuchman](https://github.com/ebuchman) | 11 | 0.11% |
+| [ethers](https://github.com/ethers) | 11 | 0.11% |
+| [ryanschneider](https://github.com/ryanschneider) | 10 | 0.10% |
+| [ferhatelmas](https://github.com/ferhatelmas) | 10 | 0.10% |
+| [winsvega](https://github.com/winsvega) | 10 | 0.10% |
+| [markya0616](https://github.com/markya0616) | 10 | 0.10% |
+| [mcdee](https://github.com/mcdee) | 9 | 0.09% |
+| [kobigurk](https://github.com/kobigurk) | 9 | 0.09% |
+| [caktux](https://github.com/caktux) | 9 | 0.09% |
+| [ronakgothi](https://github.com/ronakgothi) | 9 | 0.09% |
+| [mrFranklin](https://github.com/mrFranklin) | 8 | 0.08% |
+| [shazow](https://github.com/shazow) | 8 | 0.08% |
+| [stevenroose](https://github.com/stevenroose) | 8 | 0.08% |
+| [CoreyLin](https://github.com/CoreyLin) | 7 | 0.07% |
+| [robert-zaremba](https://github.com/robert-zaremba) | 7 | 0.07% |
+| [gbalint](https://github.com/gbalint) | 7 | 0.07% |
+| [hackmod](https://github.com/hackmod) | 7 | 0.07% |
+| [hadv](https://github.com/hadv) | 7 | 0.07% |
+| [cdetrio](https://github.com/cdetrio) | 6 | 0.06% |
+| [b00ris](https://github.com/b00ris) | 6 | 0.06% |
+| [mansaj](https://github.com/mansaj) | 6 | 0.06% |
+| [jeremyschlatter](https://github.com/jeremyschlatter) | 6 | 0.06% |
+| [erobit](https://github.com/erobit) | 6 | 0.06% |
+| [arboreum](https://github.com/arboreum) | 6 | 0.06% |
+| [axic](https://github.com/axic) | 6 | 0.06% |
+| [span14](https://github.com/span14) | 5 | 0.05% |
+| [wuestholz](https://github.com/wuestholz) | 5 | 0.05% |
+| [hydai](https://github.com/hydai) | 5 | 0.05% |
+| [SamuelMarks](https://github.com/SamuelMarks) | 5 | 0.05% |
+| [rociiu](https://github.com/rociiu) | 5 | 0.05% |
+| [Rahulraj04](https://github.com/Rahulraj04) | 5 | 0.05% |
+| [GagziW](https://github.com/GagziW) | 5 | 0.05% |
+| [Dexaran](https://github.com/Dexaran) | 5 | 0.05% |
+| [frewsxcv](https://github.com/frewsxcv) | 5 | 0.05% |
+| [heikoheiko](https://github.com/heikoheiko) | 5 | 0.05% |
+| [0xc1c4da](https://github.com/0xc1c4da) | 5 | 0.05% |
+| [carver](https://github.com/carver) | 5 | 0.05% |
+| [LefterisJP](https://github.com/LefterisJP) | 5 | 0.05% |
+| [xcthulhu](https://github.com/xcthulhu) | 5 | 0.05% |
+| [tbocek](https://github.com/tbocek) | 4 | 0.04% |
+| [sorin](https://github.com/sorin) | 4 | 0.04% |
+| [niuzhenguo](https://github.com/niuzhenguo) | 4 | 0.04% |
+| [jmozah](https://github.com/jmozah) | 4 | 0.04% |
+| [yondonfu](https://github.com/yondonfu) | 4 | 0.04% |
+| [wuxiangzhou2010](https://github.com/wuxiangzhou2010) | 4 | 0.04% |
+| [sdboyer](https://github.com/sdboyer) | 4 | 0.04% |
+| [hiddentao](https://github.com/hiddentao) | 4 | 0.04% |
+| [fishermanymc](https://github.com/fishermanymc) | 4 | 0.04% |
+| [caesarchad](https://github.com/caesarchad) | 4 | 0.04% |
+| [gumb0](https://github.com/gumb0) | 4 | 0.04% |
+| [reductionista](https://github.com/reductionista) | 4 | 0.04% |
+| [roveneliah](https://github.com/roveneliah) | 4 | 0.04% |
+| [evgen-povt](https://github.com/evgen-povt) | 4 | 0.04% |
+| [HusamElbashir](https://github.com/HusamElbashir) | 4 | 0.04% |
+| [divan](https://github.com/divan) | 4 | 0.04% |
+| [LLLeon](https://github.com/LLLeon) | 4 | 0.04% |
+| [wraith7](https://github.com/wraith7) | 4 | 0.04% |
+| [leijurv](https://github.com/leijurv) | 4 | 0.04% |
