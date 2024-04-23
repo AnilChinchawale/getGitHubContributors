@@ -42,3 +42,11 @@ Once you have configured your `.env` file, you can run the script with the follo
 
 ```bash
 node contributors.js
+
+
+# Repository Contributors Links
+
+- [ethereum/go-ethereum Contributors](./ethereum_go-ethereum_contributors.md)
+- [XinFinOrg/XDPoSChain Contributors](./XinFinOrg_XDPoSChain_contributors.md)
+- [tensorflow/tensorflow Contributors](./tensorflow_tensorflow_contributors.md)
+- [openai/openai-cookbook Contributors](./openai_openai-cookbook_contributors.md)

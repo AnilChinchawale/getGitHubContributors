@@ -2,6 +2,8 @@ require('dotenv').config();
 const axios = require('axios');
 const fs = require('fs');
 
+const readmeContent = [];
+
 // Function to get most active contributors for a given GitHub repository
 async function getMostActiveContributors(owner, repo) {
   const url = `https://api.github.com/repos/${owner}/${repo}/contributors`;
@@ -35,8 +37,12 @@ async function getMostActiveContributors(owner, repo) {
         const percentage = ((contributor.contributions / totalContributions) * 100).toFixed(2);
         data += `| [${contributor.login}](https://github.com/${contributor.login}) | ${contributor.contributions} | ${percentage}% |\n`;
       });
-      fs.writeFileSync(`${owner}_${repo}_contributors.md`, data);
-      console.log(`Output saved to ${owner}_${repo}_contributors.md`);
+      const fileName = `${owner}_${repo}_contributors.md`;
+      fs.writeFileSync(fileName, data);
+      console.log(`Output saved to ${fileName}`);
+
+      // Add link to README content
+      readmeContent.push(`- [${owner}/${repo} Contributors](./${fileName})`);
     } else {
       console.log(`Error fetching contributors for ${owner}/${repo}: ${contributors.message || 'Unknown error'}`);
     }
@@ -45,14 +51,18 @@ async function getMostActiveContributors(owner, repo) {
   }
 }
 
-// Function to handle the list of repositories from the .env file
-function processRepositories() {
+// Function to handle the list of repositories from the .env file and update the README.md
+async function processRepositories() {
   const repos = process.env.REPOS.split(',');
-  repos.forEach(repo => {
+  for (const repo of repos) {
     const [owner, repoName] = repo.split('/');
     console.log(`Most active contributors for ${owner}/${repoName}:`);
-    getMostActiveContributors(owner, repoName);
-  });
+    await getMostActiveContributors(owner, repoName);
+  }
+
+  // Write README.md file
+  fs.writeFileSync('README.md', '# Repository Contributors Links\n\n' + readmeContent.join('\n'));
+  console.log('Updated README.md with contributors links.');
 }
 
 processRepositories();
