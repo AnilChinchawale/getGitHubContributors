@@ -29,8 +29,10 @@ Before using the script, ensure you have Node.js and npm (Node Package Manager) 
 
 Create a `.env` file in the root directory of your project and add the following variables:
 
-GITHUB_TOKEN=your_github_token
-REPOS=owner1/repo1,owner2/repo2
+
+        GITHUB_TOKEN=your_github_token
+        REPOS=owner1/repo1,owner2/repo2
+
 
 Replace `your_github_token` with your actual GitHub token and `owner1/repo1,owner2/repo2` with the repositories you want to fetch contributors from.
 
