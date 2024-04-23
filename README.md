@@ -1,20 +1,17 @@
 # GitHub Contributors Fetcher
 
-This script fetches the most active contributors for a given GitHub repository and saves the information to a Markdown file.
+This Node.js script fetches the most active contributors for specified GitHub repositories and saves the information to Markdown files, one for each repository.
 
 ## Usage
 
 ### Prerequisites
 
-Before using the script, make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+Before using the script, ensure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from [nodejs.org](https://nodejs.org/).
 
 ### Installation
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/RushabhParmar12/Active-Github-User-
-    ```
 
 2. Navigate to the project directory:
 
@@ -25,14 +22,21 @@ Before using the script, make sure you have Python installed on your system. You
 3. Install the required dependencies:
 
     ```bash
-    pip install requests
+    npm install axios dotenv
     ```
+
+### Configuration
+
+Create a `.env` file in the root directory of your project and add the following variables:
+
+GITHUB_TOKEN=your_github_token
+REPOS=owner1/repo1,owner2/repo2
+
+Replace `your_github_token` with your actual GitHub token and `owner1/repo1,owner2/repo2` with the repositories you want to fetch contributors from.
 
 ### How to Run
 
-Replace `"your_github_token"` with your actual GitHub token in the `get_most_active_contributors` function.
-
-Run the script using the following command:
+Once you have configured your `.env` file, you can run the script with the following command:
 
 ```bash
-python contributors.py
+node contributors.js

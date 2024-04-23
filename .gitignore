@@ -27,4 +27,5 @@ yarn.lock
 
 .idea
 .idea/
+.env
 yarn.lock
