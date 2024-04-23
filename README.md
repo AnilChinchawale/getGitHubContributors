@@ -42,7 +42,7 @@ Once you have configured your `.env` file, you can run the script with the follo
 
 ```bash
 node contributors.js
-
+```
 
 # Repository Contributors Links
 
